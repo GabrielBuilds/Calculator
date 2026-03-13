@@ -13,4 +13,4 @@ elif operacao == '3':
     resultado = numero1 * numero2
 elif operacao == '4':
     resultado = numero1 / numero2
-print('O resultado da operação é de {:.3f}' .format(resultado))
+print('O resultado da operação é de {:.2f}' .format(resultado))
